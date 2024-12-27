@@ -1,1 +1,1 @@
-Zpracování EKG signálu a zpracování zvukového signálu v JupyterLab.
+Zpracování EKG signálu a práce se zvukovým signálem v JupyterLab.
